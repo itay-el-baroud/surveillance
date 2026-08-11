@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Surveillance</string>
+    <string name="status_visible">Status: Visible</string>
+    <string name="connection_status">Connection: Checking</string>
+    <string name="start_screen_capture">Start Screen Capture</string>
+    <string name="enable_stealth">Enable Stealth Mode</string>
+</resources>
